@@ -121,6 +121,10 @@ if user_prompt "Möchten Sie pybind11 über pip installieren?"; then
     pip install pybind11 >> "$LOG_FILE" 2>&1
     check_command_success "pip install pybind11"
     color_echo success "pybind11 über pip installiert."
+
+    echo "Passe den PATH an..."
+    echo 'export PATH=$PATH:/home/pi/.local/bin' >> ~/.bashrc
+    color_echo success "Der PATH wurde angepasst. Bitte melden Sie sich neu an oder führen Sie 'source ~/.bashrc' aus."
 fi
 
 echo "Skript erfolgreich abgeschlossen!"
