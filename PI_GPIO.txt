@@ -1,0 +1,28 @@
+| Raspberry Pi 4 GPIO Pin (BCM) | WiringPi Pin | Description                |
+|-------------------------------|--------------|----------------------------|
+| 17                            | 0            | General Purpose I/O (GPIO) |
+| 18                            | 1            | General Purpose I/O (GPIO) |
+| 27                            | 2            | General Purpose I/O (GPIO) |
+| 22                            | 3            | General Purpose I/O (GPIO) |
+| 23                            | 4            | General Purpose I/O (GPIO) |
+| 24                            | 5            | General Purpose I/O (GPIO) |
+| 25                            | 6            | General Purpose I/O (GPIO) |
+| 4                             | 7            | General Purpose I/O (GPIO) |
+| 2                             | 8            | General Purpose I/O (GPIO) |
+| 3                             | 9            | General Purpose I/O (GPIO) |
+| 8                             | 10           | General Purpose I/O (GPIO) |
+| 7                             | 11           | General Purpose I/O (GPIO) |
+| 10                            | 12           | General Purpose I/O (GPIO) |
+| 9                             | 13           | General Purpose I/O (GPIO) |
+| 11                            | 14           | General Purpose I/O (GPIO) |
+| 14                            | 15           | General Purpose I/O (GPIO) |
+| 15                            | 16           | General Purpose I/O (GPIO) |
+| 28                            | 17           | General Purpose I/O (GPIO) |
+| 29                            | 18           | General Purpose I/O (GPIO) |
+| 30                            | 19           | General Purpose I/O (GPIO) |
+| 31                            | 20           | General Purpose I/O (GPIO) |
+| 5                             | 21           | General Purpose I/O (GPIO) |
+| 6                             | 22           | General Purpose I/O (GPIO) |
+| 13                            | 23           | General Purpose I/O (GPIO) |
+| 19                            | 24           | General Purpose I/O (GPIO) |
+| 26                            | 25           | General Purpose I/O (GPIO) |
